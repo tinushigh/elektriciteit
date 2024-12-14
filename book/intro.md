@@ -3,7 +3,7 @@
 
 _This is the first page the student will see when opening the url._
 
-## 1	Elektrische lading 
+(target_header)=## 1	Elektrische lading 
 
 In deze paragraaf leer je:
 -	(Elektrische) lading is een elektrische eigenschap van deeltjes (protonen en elektronen)
